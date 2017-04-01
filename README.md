@@ -1,4 +1,4 @@
-# Image Exploration on AWS
+# Kaggle DSTL Satellite Image Exploration on AWS
 
 *By [Danny Luo](http://dluo.me)*
 
